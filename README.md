@@ -197,6 +197,7 @@ const throttled3 = throttle(fn3, {limiter: l1})
 * [The differences between `throttle` and `debounce`](https://css-tricks.com/debouncing-throttling-explained-examples/).
 * [wankdanker/node-function-rate-limit](https://github.com/wankdanker/node-function-rate-limit)
 * [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck)
+* [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 * [jmperez/promise-throttle](https://github.com/jmperez/promise-throttle)
 * [bjoerge/debounce-promise](https://github.com/bjoerge/debounce-promise)
 
